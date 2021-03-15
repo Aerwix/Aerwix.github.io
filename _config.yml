@@ -24,9 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Página oficial de Aerwix | Twitch | YouTube | OpenTibia | Tibia | Tibia Servers y más.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: Aerwix
 github_username:  Aerwix
-serverName: DemeraOnline
 instagram_username: Aerwix.Dev
 twitch_username: Aerwix
 
@@ -34,14 +32,17 @@ twitch_username: Aerwix
 theme: minima
 plugins:
   - jekyll-feed
+
+# Custom Stuff
+serverName: Dream OT 2021
 # Links to other platforms.
 links:
-  # Link de Cliente 12
-  cliente12: https://mega.nz/file/724G2YwL#AsyceUfPUA7GjqpFN7aUjWgHsOKbpd1rDEhCqAOO6rg
+  # Link de Cliente 12.64
+  cliente12: https://mega.nz/file/z90mDZSZ#3iqkADSM_nnJws_yj0WTT1xsb07FaFrz-BzT2fbAMwg
   # Link de RadminVPN
   radminVPN: https://www.radmin-vpn.com/es/
   # Link de Servidor de Tibia
-  ipServer: http://localhost/
+  ipServer: https://test.draconic-ot.com/
   # Invitación permanente de Discord
   discord: https://discord.gg/2d2Jj2BTTn
   # Link de GitBook
