@@ -1,1 +1,6 @@
-Esta es una prueba
+---
+layout: post
+title:  "Welcome to Jekyll!"
+---
+
+# Bienvenidos
