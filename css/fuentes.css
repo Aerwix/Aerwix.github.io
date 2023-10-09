@@ -1,0 +1,24 @@
+@font-face {
+	font-family: njnaruto;
+	src:url(fonts/njnaruto.ttf);
+}
+
+@font-face {
+	font-family: homespun;
+	src:url(fonts/homespun.ttf);
+}
+
+* {
+	text-align:justify;
+	font-family: homespun;
+	font-size: large;
+}
+
+h1 {
+	font-family: njnaruto;
+}
+
+table, th, td {
+	border: 1px solid black;
+	text-align: center;
+  }
